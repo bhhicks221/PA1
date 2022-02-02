@@ -1,0 +1,15 @@
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.csproj.AssemblyReference.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.AssemblyInfoInputs.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.AssemblyInfo.cs
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.csproj.CoreCompileInputs.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/bin/Debug/net5.0/Programming_Assignments.deps.json
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/bin/Debug/net5.0/Programming_Assignments.runtimeconfig.json
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/bin/Debug/net5.0/Programming_Assignments.runtimeconfig.dev.json
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/bin/Debug/net5.0/Programming_Assignments.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/bin/Debug/net5.0/ref/Programming_Assignments.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/bin/Debug/net5.0/Programming_Assignments.pdb
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/ref/Programming_Assignments.dll
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.pdb
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/Debug/net5.0/Programming_Assignments.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/Programming_Assignments.csproj",
+      "projectUniqueName": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/Programming_Assignments.csproj",
       "projectName": "Programming_Assignments",
-      "projectPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/Programming_Assignments.csproj",
+      "projectPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/Programming_Assignments.csproj",
       "packagesPath": "/Users/handleyhicks/.nuget/packages/",
-      "outputPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/obj/",
+      "outputPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/Programming_Assignments/PA1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/handleyhicks/.nuget/NuGet/NuGet.Config"
