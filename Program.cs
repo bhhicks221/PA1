@@ -8,6 +8,7 @@ namespace PA1
     {
         static void Main(string[] args)
         {
+            Console.Clear();
             Console.WriteLine("Please choose from the following:\n1. Show All Songs\n2. Add a song\n3. Delete a Song by ID\n4. Exit\n");
             List<Song> funSongs = SongFile.GetSongs();
 
@@ -50,9 +51,9 @@ namespace PA1
                             {
                                 if (song.ID == g)
                                 {
-                                    Console.WriteLine(song.Delete);
+                                    // Console.WriteLine(song.Delete);
                                     song.Delete = false;
-                                    Console.WriteLine(song.Delete + "\n\n");
+                                    Console.WriteLine($"The song {song.Title} has been deleted.\n");
                                 }
                             // Console.WriteLine(funSongs.Exists(song => song.ID == iD));
                             }

@@ -1,9 +1,14 @@
 07ad4cf1-107a-4a46-8a85-16d6cc8f27a0#The Beauty Between#2/1/2022 11:20:47 PM#True
 67941ce5-f115-4330-bbbc-37cb922506cb#All Too Well (10 minute version)#2/1/2022 11:21:12 PM#True
 c99cec2f-1d34-48d2-abfa-0ab7dc47337c#Brass Monkey#2/1/2022 11:21:16 PM#True
-486fe75b-8ea7-445f-a30b-87b5b97ffe45#YaKnow It#2/1/2022 11:21:21 PM#True
+486fe75b-8ea7-445f-a30b-87b5b97ffe45#YaKnow It#2/1/2022 11:21:21 PM#False
 e6cc4095-b6e5-4604-a82a-c784336416f7#Dumb Stuff#2/1/2022 11:22:29 PM#True
-010e3597-c618-4010-b2b6-4f71d0fc1cc5#Grace Alone#12/31/2021 11:34:38 PM#True
+010e3597-c618-4010-b2b6-4f71d0fc1cc5#Grace Alone#12/31/2021 11:34:38 PM#False
 ebf3679d-2e2a-4b2d-b7b6-a70dacc9a3be#Joe Mama#2/2/2001 11:34:44 PM#True
 63219358-e8a3-4820-b5f4-1dd0c6b2224b#Bruh.#2/1/2022 11:35:39 PM#True
 63d7e79a-f821-4840-837f-53df95a994cc#Remember When#5/31/2005 11:36:01 PM#True
+accd76e6-ce2b-4669-b0b6-2d3e9a20f50f#Oogway Ascends#2/2/2022 2:15:26 PM#True
+953e8de0-0f0d-41ab-a943-cd725b23dcab#Bruh Moment#2/2/2022 2:15:49 PM#True
+7edd1ad7-126d-49dc-b5b3-25072c0844ca#The Last Saskatchewan Pirate#2/2/2022 2:16:33 PM#True
+4de0984b-90b8-4f4f-8196-1fe082c186ad#Sam Hertzler Is Cool#2/2/2022 2:20:17 PM#True
+8dd05087-8c82-4655-b297-42e7d4f303fb#Clay is Dope#2/2/2022 2:23:00 PM#True
